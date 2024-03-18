@@ -171,6 +171,7 @@ p {
 .features {
   text-align: center;
   padding: 4rem 10vw 10rem 10vw;
+  
 }
 
 .features h2 {
@@ -186,6 +187,7 @@ p {
   border-radius: 3px;
   padding: 5rem 0rem;
   margin: 3rem 1rem;
+  background-color: lightpink;
 }
 
 .features__inner h3 {
